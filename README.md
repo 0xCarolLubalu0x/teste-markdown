@@ -16,12 +16,5 @@ Este é um Projeto simples para testar a sintaxe Markdown e praticar o fluxo de 
 ---
 
 > Clique na estrela ⭐ pra me desejar boa sorte na trajetória
-
-<div align="center">
-    # **Olá, eu sou Carol Lubalu**
-    
-    Artista visual, ativista, entusiasta Web3, UX/UI e aspirante a DEV. Este é um Projeto simples para testar a sintaxe Markdown e praticar o fluxo de trabalho Git/GitHub.
-
-    > Clique na estrela ⭐ pra me desejar boa sorte na trajetória
-
-</div>
+> ---
+> 
